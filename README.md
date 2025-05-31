@@ -1,4 +1,4 @@
 # SQL
 SQL learning material
 
-This Repo is for SQL learning
+This Repo is for SQL learning.
